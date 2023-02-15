@@ -1,7 +1,7 @@
 let sketch = function(p){
 // Set the canvas size
-let canvasWidth = 1000;
-let canvasHeight = 750;
+let canvasWidth = screen.width;
+let canvasHeight = screen.height;
 
 // Define the number of particles and the target position
 let numParticles = 100;
