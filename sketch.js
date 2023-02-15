@@ -4,7 +4,7 @@ let canvasWidth = window.innerWidth;
 let canvasHeight = window.innerHeight;
 
 // Define the number of particles and the target position
-let numParticles = 100;
+let numParticles = 200;
 let targetPos = p.createVector(canvasWidth/2, canvasHeight/2);
 
 // Define the maximum velocity and the particle radius
